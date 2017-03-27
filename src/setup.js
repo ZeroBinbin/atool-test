@@ -1,3 +1,3 @@
 require('mocha/mocha.css');
-global.sinon = require('sinon/pkg/sinon');
+global.sinon = require('sinon');
 require('babel-polyfill');
